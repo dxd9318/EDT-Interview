@@ -1,6 +1,6 @@
 # nfl-coding-exercise
 
-This exercise should hopefully be enjoyable and will certainly allow you to apply some very popular frameworks used in practice.  Some helpful resources are included here
+This exercise should hopefully be enjoyable and will certainly allow you to apply some very popular frameworks used in practice. You can use any modern JS framework that you would like (AngularJS/Angular/Vue/React/etc). Some helpful resources are included here
 
 * AngularJS: https://angularjs.org/
 * AngularJS (decent tutorial): http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
@@ -23,5 +23,5 @@ This exercise should hopefully be enjoyable and will certainly allow you to appl
   * Game Date
   * Game Time
   * Extra Credit - Weather (this should come from a public/external API, there all lots of APIs available, [click here for one](http://openweathermap.org/api), just display the current weather).
-* Note: While no server back-end is required for pulling the list of games, the implementation should not statically display the list of games.  The list of games should be defined in a “constant” JavaScript (JSON) object that is loaded at runtime and then dynamically displayed in the user interface using HTML and AngularJS.  Do not hesitate to call / email if you have questions about this detail (585.347.####).
+* Note: While no server back-end is required for pulling the list of games, the implementation should not statically display the list of games.  The list of games should be defined in a “constant” JavaScript (JSON) object that is loaded at runtime and then dynamically displayed in the user interface using HTML and your JS framework of choice.  Do not hesitate to call / email if you have questions about this detail (585.347.####).
 * No page refreshes or modals (dialogues).
