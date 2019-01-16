@@ -1,10 +1,11 @@
 # nfl-coding-exercise
 
-This exercise should hopefully be enjoyable and will certainly allow you to apply some very popular frameworks used in practice. You can use any modern JS framework that you would like (AngularJS/Angular/Vue/React/etc). Some helpful resources are included here
+This exercise should hopefully be enjoyable and will certainly allow you to apply some very popular frameworks used in practice. You can use any modern JS framework that you would like (Angular/Vue/React/etc). Some helpful resources are included here
 
-* AngularJS: https://angularjs.org/
-* AngularJS (decent tutorial): http://www.toptal.com/angular-js/a-step-by-step-guide-to-your-first-angularjs-app
-* Bootstrap: http://getbootstrap.com/
+* Angular: https://angular.io
+* React: https://reactjs.org/
+* Vue: https://vuejs.org/
+
 
 # Expected output
 * A commit into this repository including the associated HTML, CSS, and JavaScript artifacts.
